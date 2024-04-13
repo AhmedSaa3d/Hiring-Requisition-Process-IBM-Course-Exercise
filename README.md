@@ -9,21 +9,39 @@
         that you can use to digitize all aspects of business operations, while providing real-time insight into your business.
 
 ## Objectives
-     - Start IBM Business Automation Workflow
-     - Create a process application in Workflow Center
-     - Use the Process Admin console and other tools to aid in troubleshooting
-     - Export and import process applications
-     - Translate business process workflow steps that are documented in the process discovery and analysis into process model tasks
-     - Create the foundation for a process by adding the appropriate lanes to the default pool
-     - Model the expected process flow for the initial process model
-     - Decompose business process workflow steps that are documented in the process discovery and analysis into process model tasks
-     - Create a linked process
-     - Add gateways to a process
-     - Model the appropriate sequence flows for each gateway
-     - Add a timer intermediate event to a process based on business requirements
-     - Model an escalation path in a process with IBM Process Designer
-     - Add a new swimlane and activity for legal review to meet additional requirements
-     - Validate the process application and create a snapshot
+     - 1.1: Start IBM Business Automation Workflow
+     - 1.2: Create a process application in Workflow Center
+     - 1.3: Use the Process Admin console and other tools to aid in troubleshooting
+     - 1.4: Export and import process applications
+     - 2.1: Translate business process workflow steps that are documented in the process discovery and analysis into process model tasks
+     - 2.2: Create the foundation for a process by adding the appropriate lanes to the default pool
+     - 2.3: Model the expected process flow for the initial process model
+     - 2.4: Decompose business process workflow steps that are documented in the process discovery and analysis into process model tasks
+     - 2.5: Create a linked process
+     - 3.1: Add gateways to a process
+     - 3.2: Model the appropriate sequence flows for each gateway
+     - 3.3: Add a timer intermediate event to a process based on business requirements
+     - 3.4: Model an escalation path in a process with IBM Process Designer
+     - 3.5: Add a new swimlane and activity for legal review to meet additional requirements
+     - 3.6: Validate the process application and create a snapshot
+     - 4.1: Create simple variables in a process
+     - 4.2: Implement timer intermediate events in a process
+     - 4.3: Implement gateways for a process
+     - 4.4: Implement routing for an activity
+     - 5.1: Determine and organize data when provided with a written process
+     - 5.2: Add business objects and object type
+     - 5.3: Create a client-side human service 
+     - 5.4: Add variables and business objects to a process application
+     - 5.5: Create and configure a coach to obtain process participant input
+     - 5.6: Model a coach by using the concept of grids
+     - 5.7: Add coach controls to control process flow
+     - 5.8: Create a client-side human service and coach for the General Manager review activity
+     - 5.9: Implement an activity by attaching a service and mapping data
+     - 6.1: Create tabs on a coach
+     - 6.2: Change the appearance of a coach by applying a custom theme
+     - 6.3: Change the coach layout for a mobile format
+     - 6.4: Configure controls to respond to different screen sizes
+     - 6.5: Debug the coach by using a responsive sensor
           
 ## Tools
     - VMware WorkStation 17 Player
@@ -32,7 +50,7 @@
 ## Business Process Workflow Scenario "Hiring Requisition process"
   ### Problem
       - The company wants to reduce rework by introducing a more structured process for the Hiring Requisition process
-  ### Core requirements
+  ### Core Requirements
       - 1.1   : A Hiring Manager submits a hiring requisition to the HR Department. The request contains the following information:
                 - Customer details: Requisition number, Date of request, Requester   , Date position available ,
                                     Job title         , Job description, Job level   , Number of people managed, Division , 
@@ -79,10 +97,23 @@
     - Validate the process model and take a snapshot
 
 ## Exercise 4. Playback 1: Controlling process flow with business data
-
+    - Implement the intermediate timer event
+    - Create the process flow variables for the Hiring Request Process
+    - Create process flow variables for the Approve Hire Request linked process
+    - Implement gateways
+    - Implement routing for an activity
+    - Review artifact references
+    
 ## Exercise 5. Playback 1: Business data, services, and coaches
-
+    - Build business objects and variables
+    - Create a reusable client-side human service and define input controls
+    - Reuse and debug the client-side human service
+    
 ## Exercise 6. Playback 1: User interface design and implementation
+    - Group controls into tabs on a coach
+    - Change the appearance of the coach by applying a custom theme
+    - Customize controls
+    - Modify the mobile layout
 
 ## Exercise 7. Playback 1: Conducting the Playback session
 
