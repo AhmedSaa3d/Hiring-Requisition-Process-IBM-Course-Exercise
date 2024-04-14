@@ -12,12 +12,12 @@
      - 1.1: Start IBM Business Automation Workflow
      - 1.2: Create a process application in Workflow Center
      - 1.3: Use the Process Admin console and other tools to aid in troubleshooting
-     - 1.4: Export and import process applications
+     - 1.4: Export and import process applications    
      - 2.1: Translate business process workflow steps that are documented in the process discovery and analysis into process model tasks
      - 2.2: Create the foundation for a process by adding the appropriate lanes to the default pool
      - 2.3: Model the expected process flow for the initial process model
      - 2.4: Decompose business process workflow steps that are documented in the process discovery and analysis into process model tasks
-     - 2.5: Create a linked process
+     - 2.5: Create a linked process    
      - 3.1: Add gateways to a process
      - 3.2: Model the appropriate sequence flows for each gateway
      - 3.3: Add a timer intermediate event to a process based on business requirements
@@ -27,7 +27,7 @@
      - 4.1: Create simple variables in a process
      - 4.2: Implement timer intermediate events in a process
      - 4.3: Implement gateways for a process
-     - 4.4: Implement routing for an activity
+     - 4.4: Implement routing for an activity     
      - 5.1: Determine and organize data when provided with a written process
      - 5.2: Add business objects and object type
      - 5.3: Create a client-side human service 
@@ -42,6 +42,12 @@
      - 6.3: Change the coach layout for a mobile format
      - 6.4: Configure controls to respond to different screen sizes
      - 6.5: Debug the coach by using a responsive sensor
+     - 7.1: Log on to the Process Portal and create an instance of a process
+     - 7.2: Demonstrate that the process follows the various paths modeled
+     - 7.3: Use Process Portal to view the state of activities in a process
+     - 7.4: Create a toolkit
+     - 7.5: Create a snapshot in the Workflow Center
+     - 7.6: Export the process application
           
 ## Tools
     - VMware WorkStation 17 Player
@@ -116,6 +122,12 @@
     - Modify the mobile layout
 
 ## Exercise 7. Playback 1: Conducting the Playback session
+    - Prepare for the playback
+    - Demonstrate the Review Needed path
+    - Demonstrate the Review Not Needed path
+    - Demonstrate activity tracking
+    - Reset the environment
+    - Create the Hiring Requisition Toolkit and take a snapshot
 
 ## Exercise 8. Playback 2: Integrations
 
