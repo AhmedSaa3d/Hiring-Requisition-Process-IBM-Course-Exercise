@@ -48,6 +48,13 @@
      - 7.4: Create a toolkit
      - 7.5: Create a snapshot in the Workflow Center
      - 7.6: Export the process application
+     - 8.1: Create a decision service
+     - 8.2: Create and configure a UCA
+     - 8.3: Start a process with a message start event
+     - 8.4: Use tagging to organize assets
+     - 8.5: Query a database to obtain information and populate a list variable
+     - 8.6: Create environment variables (ENVs) and exposed process variables (EPVs)
+     - 8.7: Change a text control to a single select control
           
 ## Tools
     - VMware WorkStation 17 Player
@@ -130,7 +137,12 @@
     - Create the Hiring Requisition Toolkit and take a snapshot
 
 ## Exercise 8. Playback 2: Integrations
-
+    - Create a decision service
+    - Implement a message start event
+    - Apply asset tags
+    - Create a service to query a database and populate a list
+    - Change an input to a single select on a coach
+    
 ## Exercise 9. Playback 3: Handling errors and deploying your process application
 
 ## Exercise 10. Implementing a custom routing solution
