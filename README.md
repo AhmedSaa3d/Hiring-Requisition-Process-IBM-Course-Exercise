@@ -148,6 +148,10 @@
 ## Exercise 10. Implementing a custom routing solution
 
 ## Exercise 11. Implementing the "four eyes" policy by using a team filter
+    - Modify the process
+    - Create the team filter service
+    - Apply the team filter service to the activity assignment
+    - Test the four eyes policy
 
 ## Exercise 12. Building a cancellation pattern
 
