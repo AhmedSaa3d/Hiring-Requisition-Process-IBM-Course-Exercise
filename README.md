@@ -144,6 +144,10 @@
     - Change an input to a single select on a coach
     
 ## Exercise 9. Playback 3: Handling errors and deploying your process application
+    - Implement exception handling in a service
+    - Prepare for final snapshot
+    - Check the history of the process application
+    - Create a snapshot of the process application
 
 ## Exercise 10. Implementing a custom routing solution
 
